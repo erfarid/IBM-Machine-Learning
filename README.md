@@ -30,8 +30,7 @@ Complete specialization program from IBM covering the full spectrum of machine l
 - Regularization and gradient descent
 - Model optimization
 
-**Final Project**: Car price prediction with Car Dekho dataset
-
+**Final Project**: 
 ---
 
 ### [Course 3: Supervised Machine Learning - Classification](Supervised%20Machine%20Learning%20Classification/)

@@ -73,8 +73,8 @@ Complete specialization program from IBM covering the full spectrum of machine l
 - Autoencoders
 - Reinforcement learning basics
 
-**Final Project**: COVID-19 prediction from lung condition analysis
-
+**Final Project**:  Brain Tumors Detection Using Convolutional Neural 
+Network
 ---
 
 ### [Course 6: Time Series and Survival Analysis](Time%20Series%20and%20Survival%20Analysis/)

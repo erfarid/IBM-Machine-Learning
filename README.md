@@ -43,7 +43,7 @@ Complete specialization program from IBM covering the full spectrum of machine l
 - Decision trees
 - Ensemble methods (Bagging, Boosting, Stacking)
 
-**Final Project**: 
+**Final Project**: Heart attack prediction
 
 ---
 
